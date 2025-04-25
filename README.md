@@ -1,2 +1,3 @@
 # python-practice
-This repository is for all the code practice during the DSA Classes over the semester 2.1
+Stacy Njoki Mwangi, 160077
+This repository is for all the code practice during the DSA Classes over the 1st Semester of the 2nd Year.
